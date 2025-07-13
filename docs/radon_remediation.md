@@ -27,10 +27,9 @@ minutes) -> Pb-214 (27 minutes) and At-218 (1.5 seconds) -> Bi-214 (20 minutes)
 Lead-210 will undergo further decay, but because its half-life is so long, the
 decay rate is slow. All of the above daughters are metals with fairly rapid
 decays, so if you inhale a radon atom just before it decays, then you will
-receive the radiation dose of the chain through Lead-210.
+likely receive the radiation dose of the chain through Lead-210.
 
-When I inhale the air in my home, let's consider different fractions of that
-air:
+Let's consider different fractions of the air in my home:
 
 | Radon that entered | Amount that will decay in the next 4 days | Amount that will decay in the next 12 hours |
 | -----------------: | :---------------------------------------: | :-----------------------------------------: |
@@ -42,8 +41,8 @@ air:
 
 Due to the nature of radioactive decay, the newest-to-enter radon produces the
 bulk of the radiation. If you never change the air in your home, then the full
-radiation dose will occur inside. If you change the air in your home very fast,
-then most of the decays will occur outside.
+radiation dose will occur inside. If you frequently replace the air in your home
+with outside air, then most of the decays will occur outside.
 
 ### How fast to change the air
 
